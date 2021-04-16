@@ -1,0 +1,17 @@
+#myForm {
+	text-align:center;
+	
+}
+#submit{
+	width:100%;
+	margin:20px 0 20px 0;
+}
+form{
+	border:1px solid black;
+	display:inline-block;
+	padding:5px;
+}
+
+input{
+	margin:5px;
+}
